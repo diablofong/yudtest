@@ -8,7 +8,7 @@
 
 ## Project initalize
 
-```shell script
+```
 npm install
 ```
 
@@ -16,13 +16,13 @@ npm install
 
 1. Add playlist code
 
-```javascript
+```
 let listCode = 'your download playlist code'
 ```
 
 2. Run index.js download video
 
-```shell script
+```
 node index.js
 ```
 
@@ -30,10 +30,9 @@ node index.js
 
 1. Run convert.php
 
-```php
+```
 php convert.php
 ```
-
 ## License
 
 The MIT License (MIT)
